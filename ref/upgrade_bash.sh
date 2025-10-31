@@ -4,7 +4,7 @@ upgrade_bash() {
     current_bash_version=$(bash --version | head -n 1 | awk '{for(i=1;i<=NF;i++) if ($i ~ /^[0-9]+\.[0-9]+(\.[0-9]+)?/) print $i}')
     major_version=$(echo "$current_bash_version" | cut -d'.' -f1)
     minor_version=$(echo "$current_bash_version" | cut -d'.' -f2)
-    if [ "$major_version" -lt 4 ] || { [ "$major_version" -eq 4 ] && [ "$minor_version" -lt 3 ]; }; then
+    if [ "$major_version" -gt 4 ] || { [ "$major_version" -eq 4 ] && [ "$minor_version" -ge 3 ]; }; then
         echo "Bash version is 4.3 or higher. No need to upgrade."
         return 0
     fi
