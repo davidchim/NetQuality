@@ -191,6 +191,11 @@ docker run --rm --net=host -it xykt/netquality -E & docker rmi xykt/netquality >
 
 ## Contributions
 
+**Senior Sponsorship Partner:**
+| Sponsor | Logo | Link | 
+| - | - | - |  
+| RapidProxy</br>`ISP IP` | ![rapidproxy_logo](https://raw.githubusercontent.com/xykt/NetQuality/main/res/sponsor/logo_rapidproxy_l.png) | [https://rapidproxy.io](https://www.rapidproxy.io/?ref=gitipquality)| 
+
 **Server Sponsors​ *(No ranking implied)*:**
 
 | Sponsor | Logo | Link | 
@@ -201,7 +206,6 @@ docker run --rm --net=host -it xykt/netquality -E & docker rmi xykt/netquality >
 | DreamCloud | ![dreamcloud_logo](https://raw.githubusercontent.com/xykt/NetQuality/main/res/sponsor/logo_dreamcloud.png) | [https://as211392.com](https://as211392.com)|
 | CNFaster | ![cnfaster_logo](https://raw.githubusercontent.com/xykt/NetQuality/main/res/sponsor/logo_cnfaster.png) | [https://cnfaster.com](https://cnfaster.com)|
 | VIRCS</br>威尔克斯 | ![vircs_logo](https://raw.githubusercontent.com/xykt/NetQuality/main/res/sponsor/logo_vircs.png) | [https://vircs.com](https://www.vircs.com/promotion?code=6)| 
-| RapidProxy</br>`原生IP` | ![rapidproxy_logo](https://raw.githubusercontent.com/xykt/NetQuality/main/res/sponsor/logo_rapidproxy.png) | [https://rapidproxy.io](https://www.rapidproxy.io/?ref=gitipquality)| 
 
 ##### *E-Mail: sponsor@check.place Telegram Bot: https://t.me/xythebot*
 **Only accepting merchants with long-term stable operations and good reputation*
