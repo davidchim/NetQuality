@@ -191,11 +191,6 @@ docker run --rm --net=host -it xykt/netquality -E & docker rmi xykt/netquality >
 
 ## Contributions
 
-**Senior Sponsorship Partner:**
-| Sponsor | Logo | Link | 
-| - | - | - |  
-| RapidProxy</br>`ISP IP` | ![rapidproxy_logo](https://raw.githubusercontent.com/xykt/NetQuality/main/res/sponsor/logo_rapidproxy_l.png) | [https://rapidproxy.io](https://www.rapidproxy.io/?ref=gitipquality)| 
-
 **Server Sponsors​ *(No ranking implied)*:**
 
 | Sponsor | Logo | Link | 
@@ -204,7 +199,8 @@ docker run --rm --net=host -it xykt/netquality -E & docker rmi xykt/netquality >
 | BAGE | ![bage_logo](https://raw.githubusercontent.com/xykt/NetQuality/main/res/sponsor/logo_bage.png) | [https://bagevm.com](https://bagevm.com)|
 | LisaHost</br>丽萨主机 | ![lisa_logo](https://raw.githubusercontent.com/xykt/NetQuality/main/res/sponsor/logo_lisa.png) | [https://lisahost.com](https://lisahost.com)|
 | DreamCloud | ![dreamcloud_logo](https://raw.githubusercontent.com/xykt/NetQuality/main/res/sponsor/logo_dreamcloud.png) | [https://as211392.com](https://as211392.com)|
-| VIRCS</br>威尔克斯 | ![vircs_logo](https://raw.githubusercontent.com/xykt/NetQuality/main/res/sponsor/logo_vircs.png) | [https://vircs.com](https://www.vircs.com/promotion?code=6)| 
+| VIRCS</br>威尔克斯 | ![vircs_logo](https://raw.githubusercontent.com/xykt/NetQuality/main/res/sponsor/logo_vircs.png) | [https://vircs.com](https://www.vircs.com/promotion?code=6)|   
+| RapidProxy</br>`ISP IP` | ![rapidproxy_logo](https://raw.githubusercontent.com/xykt/NetQuality/main/res/sponsor/logo_rapidproxy.png) | [https://rapidproxy.io](https://www.rapidproxy.io/?ref=gitipquality)| 
 
 ##### *E-Mail: sponsor@check.place Telegram Bot: https://t.me/xythebot*
 **Only accepting merchants with long-term stable operations and good reputation*
