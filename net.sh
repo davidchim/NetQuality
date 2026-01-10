@@ -141,7 +141,7 @@ shelp_lines=(
 "NETWORK QUALITY CHECK SCRIPT 网络质量体检脚本"
 "Interactive Interface:  bash <(curl -sL https://Net.Check.Place) -EM"
 "交互界面：              bash <(curl -sL https://Net.Check.Place) -M"
-"Parameters 参数运行: bash <(curl -sL https://Net.Check.Place) [-4] [-6] [-f] [-h] [-j] [-l language] [-n] [-o] [-p] [-y] [-E] [-L] [-M] [-P] [-R province] [-S chapters]"
+"Parameters 参数运行: bash <(curl -sL https://Net.Check.Place) [-4] [-6] [-f] [-h] [-j] [-l language] [-n] [-o outputpath] [-p] [-y] [-E] [-L] [-M] [-P] [-R province] [-S chapters]"
 "            -4                             Test IPv4                                  测试IPv4"
 "            -6                             Test IPv6                                  测试IPv6"
 "            -f                             Show full IP on reports                    报告展示完整IP地址"
