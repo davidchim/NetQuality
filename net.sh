@@ -163,7 +163,7 @@ shelp_lines=(
 shelp=$(printf "%s\n" "${shelp_lines[@]}")
 set_language(){
 case "$YY" in
-"en"|"jp"|"es"|"de"|"fr"|"ru"|"pt")swarn[1]="ERROR: Unsupported parameters!"
+"en")swarn[1]="ERROR: Unsupported parameters!"
 swarn[2]="ERROR: IP address format error!"
 swarn[3]="ERROR: Dependent programs are missing. Please run as root or install sudo!"
 swarn[4]="ERROR: Parameter -4 conflicts with -i or -6!"
