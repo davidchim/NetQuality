@@ -149,7 +149,7 @@ bash <(curl -Ls https://Net.Check.Place) -Ey
 bash <(curl -Ls https://Net.Check.Place) -Ef
 ```
 
-##### privacy mode - Disable online report link:
+##### Privacy mode - Disable online report link:
 ````bash
 bash <(curl -Ls https://Net.Check.Place) -p
 ````
