@@ -109,7 +109,7 @@ bash <(curl -Ls https://Net.Check.Place) -S 1234567
 bash <(curl -Ls https://Net.Check.Place) -l cn|en
 ````
 
-##### Json输出（[输出示例](https://github.com/xykt/NetQuality/blob/main/res/output.json)）：
+##### JSON输出（[输出示例](https://github.com/xykt/NetQuality/blob/main/res/output.json)）：
 ````bash
 bash <(curl -Ls https://Net.Check.Place) -j
 ````
