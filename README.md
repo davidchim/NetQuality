@@ -154,6 +154,8 @@ docker run --rm --net=host -it xykt/netquality & docker rmi xykt/netquality > NU
 
 ## 脚本更新
 
+2026/01/15 17:50 修复不规范JSON
+
 2025/08/03 00:00 增加Docker运行方式
 
 2025/08/01 15:15 增加-p隐私模式，禁用在线报告生成功能
