@@ -167,6 +167,8 @@ docker run --rm --net=host -it xykt/netquality -E & docker rmi xykt/netquality >
 
 ## Script Updates
 
+2026/01/15 17:50 Fix non-standard JSON
+
 2025/08/03 00:00 Add Docker support
 
 2025/08/01 15:15 Add -p for privacy mode, which disables online report links
